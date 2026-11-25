@@ -1,4 +1,4 @@
-#dcit26-compilation
+# dcit26-compilation
 
 ## Snacks
 * https://snack.expo.dev/@jonas_12/cunot_lab1
